@@ -1,3 +1,6 @@
+
+<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
+
 # 15 Math Concepts Every Data Scientist Should Know
 
 <a href="https://www.packtpub.com/en-in/product/15-math-concepts-every-data-scientist-should-know-9781837634187?type=print"><img src="https://content.packt.com/_/image/original/B19496/cover_image_large.jpg" alt="no-image" height="256px" align="right"></a>
