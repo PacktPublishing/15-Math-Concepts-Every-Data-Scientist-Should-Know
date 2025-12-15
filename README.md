@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
-
 # 15 Math Concepts Every Data Scientist Should Know
 
 <a href="https://www.packtpub.com/en-in/product/15-math-concepts-every-data-scientist-should-know-9781837634187?type=print"><img src="https://content.packt.com/_/image/original/B19496/cover_image_large.jpg" alt="no-image" height="256px" align="right"></a>
