@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
+
 # 15 Math Concepts Every Data Scientist Should Know
 
 <a href="https://www.packtpub.com/en-in/product/15-math-concepts-every-data-scientist-should-know-9781837634187?type=print"><img src="https://content.packt.com/_/image/original/B19496/cover_image_large.jpg" alt="no-image" height="256px" align="right"></a>
